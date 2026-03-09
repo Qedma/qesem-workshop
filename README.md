@@ -1,5 +1,5 @@
-# qii-workshop
-This repository contains the code for the QII Workshop on Characterization-based Error Mitigation for Quantum Computation.
+# QESEM workshop
+This repository contains the code for the QESEM Workshop on Characterization-based Error Mitigation for Quantum Computation.
 
 * Main Notebooks:
 
@@ -11,8 +11,8 @@ This repository contains the code for the QII Workshop on Characterization-based
 
   -	Recommended (no local installations needed): 
     Run the notebook at Google Colab. 
-    -	Qiskit function version: [click here](https://colab.research.google.com/github/Qedma/qii-workshop/blob/main/qesem_lab_qiskit_function.ipynb).
-    -	QEDMA SaaS API version: [click here](https://colab.research.google.com/github/Qedma/qii-workshop/blob/main/qesem_lab_qedma_api.ipynb). 
+    -	Qiskit function version: [click here](https://colab.research.google.com/github/Qedma/qesem-workshop/blob/main/qesem_lab_qiskit_function.ipynb).
+    -	QEDMA SaaS API version: [click here](https://colab.research.google.com/github/Qedma/qesem-workshop/blob/main/qesem_lab_qedma_api.ipynb). 
   - Run locally:
     Clone the repository and run the main Python notebooks locally.
     
@@ -27,8 +27,8 @@ This repository contains the code for the QII Workshop on Characterization-based
 
   Solution versions of the notebooks are available here:
     - QEDMA SaaS API version:
-      - Google Colab: [here](https://colab.research.google.com/github/Qedma/qii-workshop/blob/main/qesem_lab_solution_qedma_api.ipynb)
-      - Github file: [here](https://github.com/Qedma/qii-workshop/blob/main/qesem_lab_solution_qedma_api.ipynb)
+      - Google Colab: [here](https://colab.research.google.com/github/Qedma/qesem-workshop/blob/main/qesem_lab_solution_qedma_api.ipynb)
+      - Github file: [here](https://github.com/Qedma/qesem-workshop/blob/main/qesem_lab_solution_qedma_api.ipynb)
     - QESEM Qiskit function version:
-      - Google Colab: [here](https://colab.research.google.com/github/Qedma/qii-workshop/blob/main/qesem_lab_solution_qiskit_function.ipynb)
-      - Github file: [here](https://github.com/Qedma/qii-workshop/blob/main/qesem_lab_solution_qiskit_function.ipynb)
+      - Google Colab: [here](https://colab.research.google.com/github/Qedma/qesem-workshop/blob/main/qesem_lab_solution_qiskit_function.ipynb)
+      - Github file: [here](https://github.com/Qedma/qesem-workshop/blob/main/qesem_lab_solution_qiskit_function.ipynb)

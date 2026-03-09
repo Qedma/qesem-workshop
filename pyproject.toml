@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "qii-workshop"
+name = "qesem-workshop"
 version = "0.1.0"
-description = "QESEM tutorial for the QII Workshop 2025"
-authors = ["Tasneem Watad <tasneem.watad@qedma.com>"]
+description = "QESEM workshop/tutorial"
+authors = ["Tali Shnaider <tali.shnaider@qedma.com>"]
 readme = "README.md"
 package-mode = false
 
